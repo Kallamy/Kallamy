@@ -2,7 +2,7 @@
 
 #### About me
 I like computer programming and now I am studying at [Rocketseat](https://rocketseat.com.br).
-I didnt have job experience but i am developing some projects
+I didnt have job experience but i am developing some projects.
 
 #### Courses
 - Curso em Vídeo (Gustavo Guanabara)
