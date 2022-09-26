@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I´m Yuri Mallak👋
 
-<!--
-**Kallamy/Kallamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+I like computer programming and now I am studying at [Rocketseat](https://rocketseat.com.br).
+I didnt have job experience but i am developing some projects
 
-Here are some ideas to get you started:
+#### Courses
+- Curso em Vídeo (Gustavo Guanabara)
+- B7Web (Bonieky Lacerda)
+- Discover (Rocketseat)
+- Ignite (Rocketseat)
+- Explorer (Rocketseat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### knowledge
+- Prgramming logic
+- `HTML5`
+- `CSS`
+- `Javascript`
+- `Reactjs`
+- `Nodejs`
+- `Java`
+- `Python`
+
+#### Contacts 
+- Email: yurimallak@gmail.com
+- Linkedin: https://www.linkedin.com/in/yuri-mallak/
